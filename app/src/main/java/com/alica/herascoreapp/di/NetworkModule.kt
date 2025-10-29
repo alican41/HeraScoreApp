@@ -38,7 +38,7 @@ object NetworkModule {
 
     val api: TheSportsDbApi by lazy { retrofit.create(TheSportsDbApi::class.java) }
 
-    // Use documented demo key "3" if no key is configured
+    // Use documented demo key "3" if no key is configured chapter2
     private val apiKey: String by lazy { BuildConfig.THESPORTSDB_API_KEY }
 
     val repository: MatchRepository by lazy { MatchRepository(api, apiKey) }
