@@ -2,7 +2,7 @@ Hera Score App
 
 Bu proje, Android platformu için Kotlin ile geliştirilmiş bir skor takibi uygulamasıdır.
 
-🛠️ Kullanılan Teknolojiler
+ Kullanılan Teknolojiler
 Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
 Dil: Kotlin
